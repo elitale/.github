@@ -5,11 +5,11 @@
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=dashrath)
+![](https://visitor-badge.glitch.me/badge?page_id=elitale)
 
 <br />
 
-Hi, we are the team of [Dashrath](https://www.linkedin.com/company/dashrath-solutions), a professional software solutions provider company wehere we try to build a scalable and advance softwares for the future and the present
+Hi, we are the team of [Elitale](https://elitale.com), is an exclusive network of the top freelance software developers, designers, finance experts, product managers, and project managers in the world. Top companies hire [Elitale](https://elitale.com) freelancers for their most important projects.
 
  we are also an open-source enthusiast and maintainer. we learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 <br/>
@@ -18,7 +18,7 @@ Hi, we are the team of [Dashrath](https://www.linkedin.com/company/dashrath-solu
   
   <br/>
   
-- 💼 any software work? do reach, [email](mailto:dharmendra.soni@dashrathsoftwaresolutions.com) :)
+- 💼 any software work? do reach, [github@elitale.com](mailto:github@elitale.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
